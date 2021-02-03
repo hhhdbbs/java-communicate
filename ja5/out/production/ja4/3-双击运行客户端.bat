@@ -1,0 +1,1 @@
+java -classpath .;substance.jar ClientMain
